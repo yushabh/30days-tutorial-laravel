@@ -19,3 +19,4 @@
 ### Episode 3 - Layout file using laravel components
 ### Episode 4 - Adding Layout using Tailwind CSS
 ### Episode 5 - Styling Currently active nav
+### Episode 6 - Passing Data to views using routes
